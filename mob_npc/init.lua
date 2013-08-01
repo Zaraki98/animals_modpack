@@ -120,7 +120,7 @@ npc_trader_prototype = {
 					primary_algorithms = {
 						{
 						rate=0,
-						density=1500,
+						density=2000,
 						algorithm="building_spawner",
 						height=2
 						},
