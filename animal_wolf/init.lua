@@ -221,6 +221,7 @@ tamed_wolf_prototype = {
 					typical_state_time = 60,
 					chance = 0,
 					animation = "stand",
+					state_mode = "user_def",
 					graphics_3d = {
 						visual = "mesh",
 						mesh = "animal_wolf.b3d",
