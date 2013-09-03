@@ -187,7 +187,7 @@ npc_trader_prototype = {
 							{ "default:chest_locked 1", "argent:billet10", "argent:piece_acier 10"},
 							{ "mob_archer:archer 1","argent:billet100","argent:billet50 2"},
 							{ "mob_guard:guard 1","argent:billet100","argent:billet50 2"},
-							{ "doors:door_steel 1","argent:billet50","argent:billet10 5""},
+							{ "doors:door_steel 1","argent:billet50","argent:billet10 5"},
 							{ "mobf:path_marker 1","argent:piece_cuivre","argent:piece_etain 5"},
 },
 				random_names = { "Hans","Franz","Xaver","Fritz","Thomas","Martin"},
