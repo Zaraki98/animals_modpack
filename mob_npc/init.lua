@@ -119,7 +119,7 @@ npc_prototype = {
 							{ "argent:billet100 1", "argent:billet50 2", "argent:billet20 5"},
 							{ "argent:billet200 1", "argent:billet100 2", "argent:billet50 4"},
 							{ "argent:billet500 1", "argent:billet100 5", "argent:billet50 10"},
-							{ "argent:piece1 5", "argent:piece5", "default:cobble 15"},
+							{ "argent:piece1 5", "argent:piece5", nil},
 							{ "argent:piece5 2", "argent:billet10", "argent:piece1 10"},
 							{ "argent:billet10 2", "argent:billet20", "argent:piece5 4"},
 							{ "argent:billet20 5", "argent:billet100", "argent:billet10 10"},
